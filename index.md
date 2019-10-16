@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages Edited 
+## Welcome to GitHub Pages Edited up
 
 You can use the [editor on GitHub](https://github.com/vsshevatkar/TestRepo/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
